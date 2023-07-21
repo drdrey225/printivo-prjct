@@ -45,13 +45,14 @@ body {
     color: #384a62;
 }
 
-/* .hero-section {
-
-} */
+.hero-section {
+    /* margin: 0 48px;
+    padding: 56px 20px */
+}
 
 .popular-product-box {
-    margin: 0 48px;
-    padding: 0 17.5vh;
+   
+    
 }
 
 .popular-product-text {
@@ -59,6 +60,12 @@ body {
     color: #384a62;
     font-family:'Times New Roman', Times, serif;
     font-size: 30px;
+    
+    /* flex: 1; */
+}
+
+.all-product-box {
+    flex: 1;
 }
 
 
