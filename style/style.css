@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    margin: 0 48px ;
+}
+
+.printivo-logo-nav {
+    margin: 0 120px;
+    margin-left: 166px;
+}
+
+.main {
+    margin: 0 48px;
+    height: 40vh;
+}
+
+.main-1 {
+    width: 70%;
+    margin-left: 183px;
+}
+
+
+.cardd{
+    left: 72.7%;
+}
+
+.carousel {
+    margin: 0 48px;
+}
+
+.shipped-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: #708295;
+}
+
+.quality {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5vh ;
+    font-weight: bold;
+    color: #384a62;
+}
+
+/* .hero-section {
+
+} */
+
+.popular-product-box {
+    margin: 0 48px;
+    padding: 0 17.5vh;
+}
+
+.popular-product-text {
+    font-weight: bold;
+    color: #384a62;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+.card-box {
+    /* margin: 0 48px; */
+    margin: 0 120px;
+    margin-left: 166px;
+    justify-content: space-between;
+}
+
+
+
+
+
